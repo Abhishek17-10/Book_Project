@@ -140,11 +140,6 @@ npm start
 
 This project is open source under the [MIT License](LICENSE).
 
----
-
-## ✨ Demo
-
-> *(Optional)* Live Demo: [https://your-demo-link.com](https://your-demo-link.com)
 
 ---
 
